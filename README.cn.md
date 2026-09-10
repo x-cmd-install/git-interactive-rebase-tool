@@ -1,62 +1,62 @@
 # git-interactive-rebase-tool
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 
-![git-interactive-rebase-tool](https://repo.x-cmd.io/git-interactive-rebase-tool.svg)
+![git-interactive-rebase-tool](https://repo.x-cmd.io/git-interactive-rebase-tool.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install git-interactive-rebase-tool
 ```
 
-## Code insight
+## 代码规模
 
-Total: **36,512** lines of code across **248** files in the top 5 languages.
+合计: **36,512** 行代码（覆盖前 5 种语言、共 **248** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Rust | 33,323 | 196 | 3,753 | 238 |
 | Html | 2,482 | 3 | 665 | 2 |
 | Toml | 355 | 31 | 39 | 3 |
 | Sass | 161 | 1 | 18 | 2 |
 | Bash | 113 | 21 | 13 | 3 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **2.9 / 10**
+总评分: **2.9 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (1/10) — Found 2/20 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/MitMaro/git-interactive-rebase-tool>
-- **Homepage**: <https://gitrebasetool.mitmaro.ca/>
-- **License**: GPL-3.0
+- **上游仓库**: <https://github.com/MitMaro/git-interactive-rebase-tool>
+- **官网**: <https://gitrebasetool.mitmaro.ca/>
+- **许可证**: GPL-3.0
 
-## Release
+## 发布
 
-- **Latest**: `latest` (2024-06-27)
-- **Last commit**: 2025-06-08
-- **Assets in release**: 33
+- **最新版本**: `latest` (2024-06-27)
+- **最近提交**: 2025-06-08
+- **Release 含资产**: 33 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 1,882 · **Forks**: 55 · **Open issues**: 143 · **Contributors**: 32
+- **Star**: 1,882 · **Fork**: 55 · **开放 issue**: 143 · **贡献者**: 32
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 21 · **Merged PRs**: 770 · **Open PRs**: 9 · **Closed issues**: 120 · **Open issues**: 23 · **Commits**: 1164
+- **发布数**: 21 · **已合并 PR**: 770 · **开放 PR**: 9 · **已关闭 issue**: 120 · **开放 issue**: 23 · **提交数**: 1164
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
 | last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 0 | 0 | 3 | 0 | 4 | 0 |
 | last720d | 2024-09-20 | 0 | 21 | 8 | 2 | 12 | 36 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [git-interactive-rebase-tool-2.4.1-alpine_amd64](https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-alpine_amd64) | 2.1 MiB | `other` |
 | [git-interactive-rebase-tool-2.4.1-alpine_arm64](https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-alpine_arm64) | 2.1 MiB | `other` |
 | [git-interactive-rebase-tool-2.4.1-arch_amd64](https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-arch_amd64) | 2.1 MiB | `other` |
@@ -103,23 +103,23 @@ Lowest-scoring checks:
 | [git-interactive-rebase-tool-2.4.1-windows-_aarch64.exe](https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-windows-_aarch64.exe) | 2.0 MiB | `native/win/arm64` |
 | [git-interactive-rebase-tool-2.4.1-windows-_x86_64.exe](https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-windows-_x86_64.exe) | 2.2 MiB | `native/win/x64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **36** distros on [repology.org](https://repology.org/project/git-interactive-rebase-tool). **24** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/git-interactive-rebase-tool) 上共有 **36** 个发行版报告此项目。**24** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `2.4.1` | ✅ latest |
 | Nix unstable | `2.4.1` | ✅ latest |
 | Alpine edge | `2.4.1` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for git-interactive-rebase-tool lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `git-interactive-rebase-tool` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+git-interactive-rebase-tool 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `git-interactive-rebase-tool` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/git-interactive-rebase-tool.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/git-interactive-rebase-tool.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:08:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:08:03Z._
