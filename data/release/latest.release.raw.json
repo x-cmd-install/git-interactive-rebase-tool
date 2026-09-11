@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2206600,
       "digest": null,
-      "download_count": 82,
+      "download_count": 83,
       "created_at": "2024-06-27T13:07:01Z",
       "updated_at": "2024-06-27T13:07:02Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-alpine_amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 742444,
       "digest": null,
-      "download_count": 220,
+      "download_count": 221,
       "created_at": "2024-06-27T13:06:12Z",
       "updated_at": "2024-06-27T13:06:12Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-debian-sid_amd64.deb"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 742340,
       "digest": null,
-      "download_count": 401,
+      "download_count": 402,
       "created_at": "2024-06-27T13:06:09Z",
       "updated_at": "2024-06-27T13:06:09Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-ubuntu-24.04_amd64.deb"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 2273792,
       "digest": null,
-      "download_count": 533,
+      "download_count": 534,
       "created_at": "2024-06-27T13:09:11Z",
       "updated_at": "2024-06-27T13:09:11Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-windows-_x86_64.exe"
