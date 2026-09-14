@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2206600,
       "digest": null,
-      "download_count": 85,
+      "download_count": 86,
       "created_at": "2024-06-27T13:07:01Z",
       "updated_at": "2024-06-27T13:07:02Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-alpine_amd64"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 742484,
       "digest": null,
-      "download_count": 738,
+      "download_count": 739,
       "created_at": "2024-06-27T13:05:57Z",
       "updated_at": "2024-06-27T13:05:58Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-debian-12_amd64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 1852456,
       "digest": null,
-      "download_count": 833,
+      "download_count": 851,
       "created_at": "2024-06-27T13:05:21Z",
       "updated_at": "2024-06-27T13:05:21Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-macos-12_arm"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 742640,
       "digest": null,
-      "download_count": 1567,
+      "download_count": 1584,
       "created_at": "2024-06-27T13:06:00Z",
       "updated_at": "2024-06-27T13:06:01Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-ubuntu-20.04_amd64.deb"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 754800,
       "digest": null,
-      "download_count": 346,
+      "download_count": 352,
       "created_at": "2024-06-27T13:06:17Z",
       "updated_at": "2024-06-27T13:06:18Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-ubuntu-20.04_arm64.deb"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 742340,
       "digest": null,
-      "download_count": 406,
+      "download_count": 408,
       "created_at": "2024-06-27T13:06:09Z",
       "updated_at": "2024-06-27T13:06:09Z",
       "browser_download_url": "https://github.com/MitMaro/git-interactive-rebase-tool/releases/download/2.4.1/git-interactive-rebase-tool-2.4.1-ubuntu-24.04_amd64.deb"
