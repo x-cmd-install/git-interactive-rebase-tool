@@ -4,7 +4,7 @@
 
 Native cross-platform full feature terminal-based sequence editor for git interactive rebase.
 
-[![x-cmd/install — git-interactive-rebase-tool Code Quality Monitoring Repo Card](https://repo.x-cmd.io/git-interactive-rebase-tool.svg)](https://x-cmd.com/install/git-interactive-rebase-tool)
+[![x-cmd/install — git-interactive-rebase-tool Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/git-interactive-rebase-tool.svg)](https://x-cmd.com/install/git-interactive-rebase-tool)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last720d | 2024-10-02 | 0 | 21 | 8 | 2 | 12 | 36 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last720d | 2024-10-03 | 0 | 21 | 8 | 1 | 12 | 36 |
 
 ## Release assets
 
@@ -112,4 +112,4 @@ Install metadata for git-interactive-rebase-tool lives in the [x-cmd/install](ht
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:29:14Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:29:08Z._
