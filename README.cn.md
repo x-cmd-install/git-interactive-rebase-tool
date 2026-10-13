@@ -31,8 +31,8 @@ x install git-interactive-rebase-tool
 评分最低的几项:
 
 - **Code-Review** (1/10) — Found 2/20 approved changesets -- score normalized to 1
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install git-interactive-rebase-tool
 
 ## 流行度
 
-- **Star**: 1,886 · **Fork**: 55 · **开放 issue**: 143 · **贡献者**: 32
+- **Star**: 1,887 · **Fork**: 55 · **开放 issue**: 143 · **贡献者**: 32
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install git-interactive-rebase-tool
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-15 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-10-17 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last720d | 2024-10-22 | 0 | 21 | 8 | 1 | 11 | 36 |
+| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-16 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-10-18 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last720d | 2024-10-23 | 0 | 21 | 8 | 1 | 11 | 36 |
 
 ## Release 资产
 
@@ -112,4 +112,4 @@ git-interactive-rebase-tool 的安装元数据由 [x-cmd/install](https://github
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T07:13:11Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T08:01:00Z._
