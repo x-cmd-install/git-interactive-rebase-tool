@@ -141,6 +141,18 @@
     - jakub@jirutka.cz
   licenses:
     - GPL-3.0-or-later
+- repo: aur
+  srcname: git-interactive-rebase-tool
+  binname: git-interactive-rebase-tool
+  visiblename: git-interactive-rebase-tool
+  version: 2.4.1
+  origversion: 2.4.1-2
+  status: newest
+  summary: Terminal-based sequence editor for git interactive rebase
+  maintainers:
+    - intelfx@aur
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_3_22
   subrepo: community
   srcname: git-interactive-rebase-tool
@@ -206,13 +218,6 @@
     - jakub@jirutka.cz
   licenses:
     - GPL-3.0-or-later
-- repo: homebrew
-  srcname: git-interactive-rebase-tool
-  visiblename: git-interactive-rebase-tool
-  version: 2.4.1
-  origversion: null
-  status: newest
-  summary: Native sequence editor for Git interactive rebase
 - repo: alpine_edge
   subrepo: community
   srcname: git-interactive-rebase-tool
@@ -251,18 +256,6 @@
     - fallback-mnt-aosc@repology
   categories:
     - devel
-- repo: aur
-  srcname: git-interactive-rebase-tool
-  binname: git-interactive-rebase-tool
-  visiblename: git-interactive-rebase-tool
-  version: 2.4.1
-  origversion: 2.4.1-2
-  status: newest
-  summary: Terminal-based sequence editor for git interactive rebase
-  maintainers:
-    - intelfx@aur
-  licenses:
-    - GPL-3.0-only
 - repo: aur
   srcname: git-interactive-rebase-tool-bin
   binname: git-interactive-rebase-tool-bin
@@ -324,6 +317,13 @@
   origversion: null
   status: newest
   summary: Terminal based sequence editor for git interactive rebase
+- repo: homebrew
+  srcname: git-interactive-rebase-tool
+  visiblename: git-interactive-rebase-tool
+  version: 2.4.1
+  origversion: null
+  status: newest
+  summary: Native sequence editor for Git interactive rebase
 - repo: macports
   srcname: devel/git-interactive-rebase-tool
   binname: git-interactive-rebase-tool
